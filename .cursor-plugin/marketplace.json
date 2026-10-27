@@ -1,0 +1,13 @@
+{
+  "name": "logsblox",
+  "owner": {
+    "name": "Logsblox"
+  },
+  "plugins": [
+    {
+      "name": "logsblox",
+      "source": "logsblox",
+      "description": "Access Logsblox projects and immutable application logs."
+    }
+  ]
+}
