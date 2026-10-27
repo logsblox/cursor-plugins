@@ -1,0 +1,13 @@
+{
+  "name": "logsblox",
+  "description": "Access Logsblox projects and immutable application logs.",
+  "author": {
+    "name": "Logsblox"
+  },
+  "homepage": "https://logsblox.com",
+  "repository": "https://github.com/logsblox/cursor-plugin",
+  "logo": "assets/logo.svg",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": ["logs", "mcp", "observability"]
+}
